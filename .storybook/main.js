@@ -12,7 +12,7 @@ const config = {
     options: {},
   },
   docs: {
-    autodocs: "tag",
+    inlineStories: true,
   },
 };
 export default config;

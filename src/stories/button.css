@@ -28,3 +28,24 @@
   font-size: 16px;
   padding: 12px 24px;
 }
+
+
+.storybook-button--default {
+  /* Add styles for default type */
+  background-color: #007bff; /* Example background color */
+  color: white; /* Example text color */
+}
+
+.storybook-button--neutral {
+  /* Add styles for neutral type */
+  background-color: #f8f9fa; /* Example background color */
+  color: #212529; /* Example text color */
+}
+
+.storybook-button:hover {
+  /* Add styles for hover effect */
+  /* For example, you can change background color or add a shadow */
+  background-color: lightgray;
+}
+
+
